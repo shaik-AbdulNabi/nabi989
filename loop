@@ -1,0 +1,3 @@
+name="Nabi"
+for x in name:
+  print(x)
